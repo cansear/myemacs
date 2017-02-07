@@ -1,0 +1,62 @@
+su root
+chmod u+w network
+chmod 777 network
+exit
+ps -ajx | grep a.out
+./a.out
+ps -ajx | grep a.out
+ls
+rm a.out daemon
+ls
+ls
+ls
+rm daem
+rm daemon.c
+ls
+rm daemon.c
+ls
+rm daemon
+ls
+find /usr/bin/ -type f -name "uptime"
+ls
+cd ../../
+ls
+sbin/start-yarn.sh
+man s_pipe
+pwd
+ls
+./coprocess 
+cp server.c server2.c
+cd ..
+ls
+ls -ll
+cd ../../..
+ls
+sudo chmod 777 html
+ls
+cd ..
+cd Release/
+ls
+./SeqAlignment.o
+./SeqAlignment
+cd ~/_emacs
+emacs cykbd.el
+cd ../Release/
+ls
+rm -r SeqAlignment.o 
+ls
+./main 
+cd ../Src
+cd ..
+ls
+cd Release/
+ls
+./main 
+cd ..
+ls
+cd Src/
+ls
+gcc -lstdc++ CalculateScore.cpp main.cpp DeliverConversion.cpp -o ../Release/main
+cd ../Release/
+ls -ll
+./main
